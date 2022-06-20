@@ -13,8 +13,12 @@ By the end of this semester-long project, we hoped to learn the advantages and d
 
 [1] Erfan Aasi, Cristian Ioan Vasile, Mahroo Bahreinian, and Calin Belta. Classification of time-series data using boosted
 decision trees. arXiv preprint arXiv:2110.00581, 2021. 1
+
 [2] Albert Bifet and Ricard Gavalda. Learning from time-changing data with adaptive windowing. In Proceedings of the 2007 SIAM international conference on data mining, pages 443–448. SIAM, 2007. 1
+
 [3] Christopher M Bishop. Pattern recognition and machine learning. springer, 2006. 1
+
 [4] Heitor Murilo Gomes, Jean Paul Barddal, Luis Eduardo Boiko Ferreira, and Albert Bifet. Adaptive random forests for data stream regression. In ESANN, 2018. 1
+
 [5] Jacob Montiel. Learning from evolving data streams. mental, 2018. 1
 
